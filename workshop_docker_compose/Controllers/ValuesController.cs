@@ -14,7 +14,7 @@ namespace workshop_docker_compose.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "best1", "best2" };
         }
 
         // GET api/values/5
