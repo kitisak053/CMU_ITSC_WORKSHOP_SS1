@@ -1,0 +1,11 @@
+version: '3.4'
+services:
+        coreimagetest:
+                build:
+                        context: workshop_docker_compose
+                container_name: coreimagetest
+                ports:
+                        - "81:80"
+                restart: always
+
+
