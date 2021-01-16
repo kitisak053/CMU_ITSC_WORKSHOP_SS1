@@ -1,6 +1,7 @@
 # CMU_ITSC_WORKSHOP_SS1
 
-GIT REPOSITORY นี้ ใช้สำหรับฝึก WorkShop การใช้ Dockerfile และ Docker Compose กับ .NET CORE 2.2 และDeploy บน Docker Server
+GIT REPOSITORY นี้ ใช้สำหรับฝึก WorkShop ที่ 1 การใช้ Dockerfile และ Docker Compose กับ .NET CORE 2.2 และDeploy บน Docker Server ขั้นต้น
+ซึ่งเป็น Pre request ของ WorkShop ที่ 2 
 
 1 เข้าไปที่Server Workshop <br/>
   terminal SSH UserXX@10.110.x.x <br/>
