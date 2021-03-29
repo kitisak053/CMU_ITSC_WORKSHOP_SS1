@@ -5,7 +5,7 @@ services:
                         context: workshop_docker_compose
                 container_name: coreimagetest
                 ports:
-                        - "81:80"
+                        - "82:80"
                 restart: always
 
 
